@@ -1,0 +1,13 @@
+langchain~=0.3.19
+langchain-openai~=0.3.7
+langchain-ollama
+langchain-community~=0.3.18
+langchainhub
+requests~=2.32.3
+black
+python-dotenv~=1.0.1
+
+langchain-core~=0.3.40
+tweepy~=4.15.0
+pydantic~=2.10.6
+Flask~=3.1.0
