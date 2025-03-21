@@ -1,0 +1,18 @@
+1 - project setup
+----------------- 
+mkdir react-langchain
+cd react-langchain
+pyenv virtualenv 3.11 react-langchain-py3-11
+pyenv local react-langchain-py3-11
+
+pip install requests
+
+
+2 - resources
+-------------
+https://smith.langchain.com/hub
+Explore and contribute prompts to the community hub
+
+https://python.langchain.com/docs/how_to/custom_tools/
+How to create tools
+
